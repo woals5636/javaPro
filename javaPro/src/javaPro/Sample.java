@@ -2,6 +2,6 @@ package javaPro;
 
 public class Sample {
 	public static void main(String[] args) {
-		System.out.println("±èÀç¹Î");
+		System.out.println("ê¹€ìž¬ë¯¼");
 	}// main
 }// class
